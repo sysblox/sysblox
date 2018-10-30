@@ -1,1 +1,1 @@
-Dit is een sample script
+Dit is een sample scripts
